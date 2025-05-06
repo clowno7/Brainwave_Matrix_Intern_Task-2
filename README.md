@@ -18,13 +18,12 @@ Kaggle: [Twitter US Airline Sentiment](https://www.kaggle.com/datasets/crowdflow
 - VADER sentiment scoring per tweet (`vader_score`)
 - Cleaned dataset with binary labels
 - Trained and evaluated ML model
-- Exported predictions for dashboarding
 - CSV output for BI tools
 
 ## 🗂️ Files
 - `Airline_Sentiment_Advanced_Notebook.ipynb`: Jupyter notebook with full code
 - `airline_sentiment_advanced.csv`: Scored + classified tweet data
-- `PowerBI_Dashboard.pbix`: Dashboard file (optional)
+- `sentiment_Dashboard.pbix`: Dashboard file 
 - `README.md`: Project overview
 
 ## 📈 Insights
